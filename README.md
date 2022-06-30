@@ -1,4 +1,6 @@
-# Implementation-of-Erosion-and-Dilation
+## Ex no: 9
+## Date: 20/5/2022
+# <p align="center">Thresholding
 
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
