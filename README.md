@@ -1,5 +1,5 @@
 ## Ex no: 9
-## Date: 20/5/2022
+## Date: 26.04.2023
 # <p align="center">Thresholding
 
 ## Aim
